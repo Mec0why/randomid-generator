@@ -15,7 +15,7 @@ To implement this Package follow the steps below.
 > **Yarn**
 > 
 > `yarn add @mrenke/randomid-generator`
-> 
+ 
 > **NPM**   
 > 
 > `npm install @mrenke/randomid-generator`
@@ -25,7 +25,7 @@ To implement this Package follow the steps below.
 > **require**
 > 
 > `const randomID = require('@mrenke/randomid-generator');`
-> 
+
 > **import**
 > 
 > `import randomID from '@mrenke/randomid-generator'`
