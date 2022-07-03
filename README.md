@@ -12,23 +12,23 @@ To implement this Package follow the steps below.
 
 ### 2.1. **Download**
 
-**Yarn**
-
-`yarn add @mrenke/randomid-generator`
-
-**NPM**   
-
-`npm install @mrenke/randomid-generator`
+> **Yarn**
+> 
+> `yarn add @mrenke/randomid-generator`
+> 
+> **NPM**   
+> 
+> `npm install @mrenke/randomid-generator`
 
 ### 2.2. **Import in File**
 
-**require**
-
-`const randomID = require('@mrenke/randomid-generator');`
-
-**import**   
-
->`import randomID from '@mrenke/randomid-generator'`
+> **require**
+> 
+> `const randomID = require('@mrenke/randomid-generator');`
+> 
+> **import**
+> 
+> `import randomID from '@mrenke/randomid-generator'`
 
 ## 3. Usage
 
