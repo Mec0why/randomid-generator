@@ -31,7 +31,7 @@ To implement this Package follow the steps below.
 >`import randomID from '@mrenke/randomid-generator'`
 
 ## 3. Usage
-    
+
 This function is useful in generating random ID's for the objects.
 **Caution**: This generator does not contain duplicate check.
 Even though it is very unlikely to create two duplicated ID's, this might happen. 
