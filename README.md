@@ -10,21 +10,21 @@ The package is responsible for creating random ID strings.
     
 To implement this Package follow the steps below. 
 
-### 1. **Download**
+### 2.1. **Download**
 
 **Yarn**
 
->`yarn add @mrenke/randomid-generator`
+`yarn add @mrenke/randomid-generator`
 
 **NPM**   
 
->`npm install @mrenke/randomid-generator`
+`npm install @mrenke/randomid-generator`
 
-### 2. **Import in File**
+### 2.2. **Import in File**
 
 **require**
 
->`const randomID = require('@mrenke/randomid-generator');`
+`const randomID = require('@mrenke/randomid-generator');`
 
 **import**   
 
@@ -32,9 +32,9 @@ To implement this Package follow the steps below.
 
 ## 3. Usage
     
-    This function is useful in generating random ID's for the objects.
-    **Caution**: This generator does not contain duplicate check.
-    Even though it is very unlikely to create two duplicated ID's, this might happen. 
-    Please have that in mind when using this package. 
+This function is useful in generating random ID's for the objects.
+**Caution**: This generator does not contain duplicate check.
+Even though it is very unlikely to create two duplicated ID's, this might happen. 
+Please have that in mind when using this package. 
 
 ## 4. Troubleshooting
