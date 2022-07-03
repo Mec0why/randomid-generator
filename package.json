@@ -1,0 +1,9 @@
+{
+  "name": "@user/randomid-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Mikolaj Renke",
+  "keywords": ["idgenerator", "id", "generator", "id-generator", "random", "randomid", "randomid-generator", "random-generator"],
+  "contributors": ["Kodilla.com"]
+}
