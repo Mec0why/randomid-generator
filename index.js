@@ -9,4 +9,6 @@ const randomID = (idLength) => {
   return id;
 };
 
+console.log('Your Random ID is: ' + randomID(5));
+
 module.exports = randomID;
