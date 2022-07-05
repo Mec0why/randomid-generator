@@ -33,9 +33,11 @@ To implement this Package follow the steps below.
 ### 2.3. **Call a function**
 
 > `randomID()`
-> Need to change id lenght? No worries, go in to the Package and change
-> idLength parameter.
-> **Enjoy!**
+
+Need to change id lenght? No worries, go in to the Package and change
+idLength parameter.
+
+**Enjoy!**
 
 ## 3. Usage
 
