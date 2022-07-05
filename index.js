@@ -1,5 +1,8 @@
 const randomID = (idLength) => {
+  idLength = 5; // Change this parameter in order to have different idLength
+
   let id = '';
+
   const characters =
     'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
   const charsAmount = characters.length;
@@ -8,7 +11,5 @@ const randomID = (idLength) => {
   }
   return id;
 };
-
-console.log('Your Random ID is: ' + randomID(5));
 
 module.exports = randomID;

@@ -30,6 +30,13 @@ To implement this Package follow the steps below.
 > 
 > `import randomID from '@mrenke/randomid-generator'`
 
+### 2.3. **Call a function**
+
+> `randomID()`
+> Need to change id lenght? No worries, go in to the Package and change
+> idLength parameter.
+> **Enjoy!**
+
 ## 3. Usage
 
 This function is useful in generating random ID's for the objects.
